@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # PORT is a non-sensitive server port number that coincidentally appears in
+  # the client's localhost fallback URL; don't treat it as a leaked secret.
+  SECRETS_SCAN_OMIT_KEYS = "PORT"
