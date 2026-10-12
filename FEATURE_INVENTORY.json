@@ -1,0 +1,817 @@
+[
+  {
+    "category": "Chat & Messaging",
+    "feature": "Text messages",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Emoji/GIF/stickers",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Custom/AI stickers",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Voice messages/playback speed/transcription",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Hands-free recording",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "View-once media",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Disappearing timers 24h/7d/90d",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Reply/forward/edit/delete",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Reactions/@mentions/star/pin",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Text formatting/lists/quotes/code blocks",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Translation/link previews",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Search messages/media/links/docs",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Typing/recording indicators",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Auto-saved drafts",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Sent/delivered/read receipts",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Copy/share messages",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Polls/events",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Live typing preview toggle",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Keep in chat",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Photo captions",
+    "status": "planned"
+  },
+  {
+    "category": "Chat & Messaging",
+    "feature": "Mark read/unread",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Voice/video calls",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Group calls up to 32",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Call links/scheduling",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Screen sharing",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Low-data mode/noise cancellation",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Video effects/background blur/PiP",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Speaker/Bluetooth controls",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Mute/camera toggle",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Call history/missed calls",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Silence unknown callers",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "In-call chat/raise hand/join ongoing call",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Call waiting/custom ringtone",
+    "status": "planned"
+  },
+  {
+    "category": "Calls",
+    "feature": "Group voice chat",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Group creation/member limits",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Group name/icon/description",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Admin controls/add/remove/promote/dismiss",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Member approval",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Invite links/QR",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Announcement-only mode",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Disappearing messages",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Polls/events/@all",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Group calls",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Group-add privacy",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Member tags",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Silent exit",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "New-member history",
+    "status": "planned"
+  },
+  {
+    "category": "Groups",
+    "feature": "Report/mute/group media and settings",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Create communities and subgroups",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Announcement group",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Invite/join links",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Admin tools/events",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Description/icon/member limits",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Add existing groups",
+    "status": "planned"
+  },
+  {
+    "category": "Communities",
+    "feature": "Leave/deactivate community",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Text/photo/video/voice memories",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "24-hour expiry",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Audience privacy",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Mute updates",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Reply/react/mention",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Link previews",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Reshare/forward/delete",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Viewer list/read receipt toggle",
+    "status": "planned"
+  },
+  {
+    "category": "Memories (Status replacement)",
+    "feature": "Music/layouts/collage/text styles/backgrounds",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Follow/create channels",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Updates with media/polls/links",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Reactions/admins",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Directory/search",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Mute/unfollow/forward",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Verified badge",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Follower privacy",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "QR/invite links",
+    "status": "planned"
+  },
+  {
+    "category": "Channels",
+    "feature": "Paid subscriptions where supported",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Photo/video uploads and HD quality",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Documents up to 2GB (infrastructure-dependent)",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "In-app camera",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Media editor and video trim/mute",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Send as document/albums",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Contact sharing",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Current/live location",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Voice notes",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Auto-download/storage/gallery settings",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Document scanning on supported platforms",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Save media/preview before send",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "GIF integration",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Camera flash/timer/switch",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Draw/crop/rotate/text overlay",
+    "status": "planned"
+  },
+  {
+    "category": "Media & Files",
+    "feature": "Sticker maker/upload quality settings",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "End-to-end encryption",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Security code/QR verification",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Last-seen/profile/about/online privacy",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Read receipts/typing controls",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Block/report",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Chat lock/passcode/biometric integration",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Hidden locked chats",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "App lock",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Two-step verification/passkeys",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Privacy checkup",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "View-once screenshot controls where platform permits",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Disable forwarding of view-once media",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Group-add/profile/live-location privacy",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Blocked list/default disappearing timer",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Silence unknown callers/call IP protection",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Linked-device alerts",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Suspicious-message warnings/safe links",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Encrypted backups",
+    "status": "planned"
+  },
+  {
+    "category": "Privacy & Security",
+    "feature": "Admin forwarding limits/security notifications",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Archive/auto-unarchive",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Mute timers",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Pin chats",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Read/unread",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Filters/custom lists/favorites",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Per-chat wallpapers/themes",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Chat export",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Device transfer/backup/restore",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Encrypted backup/schedule/video inclusion",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Clear/delete chats/delete all",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Broadcast lists",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Quick search/unread counter/starred messages",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Font size/Enter-to-send/message previews",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "History migration",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Contact info/shared media",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Block/unblock/add contact",
+    "status": "planned"
+  },
+  {
+    "category": "Chat Management",
+    "feature": "Per-chat notifications",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Phone registration/verification",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Multi-device sessions",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Web/desktop/tablet support",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Multiple accounts/change number/delete account",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Download account data",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Usernames/hidden phone number/username PIN",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Profile name/photo/about/QR",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Link device via QR/code",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Log out linked devices",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "SMS/call verification provider",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Account switching",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Smartwatch support",
+    "status": "planned"
+  },
+  {
+    "category": "Accounts & Devices",
+    "feature": "Account recovery/appeal",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Payments/UPI provider integration",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Payment history/settings",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Business profile/catalog/cart/orders",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Quick replies/greeting/away messages",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Chat labels/business hours/address",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Broadcasts/click-to-chat links",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Business API",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Verified badge integration",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Catalog sharing/order management/checkout",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Customer support/multi-device/analytics",
+    "status": "planned"
+  },
+  {
+    "category": "Payments & Business",
+    "feature": "Paid verification integration",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Dark/light/system theme",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Font size/language",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Notification tones/vibration/popups",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Reaction notifications/in-app sounds",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Enter-to-send",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "AI chatbot/image/sticker generation",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "AI summaries",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Data usage tracker/proxy/low-data calls",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Network usage reset",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Accessibility/screen-reader/large text",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Help/support/version/update info",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Invite friend/beta opt-in",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Storage/data settings/linked devices",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Default chat settings/business tools",
+    "status": "planned"
+  },
+  {
+    "category": "Settings & Misc",
+    "feature": "Third-party interoperability where legally/platform supported",
+    "status": "planned"
+  }
+]
